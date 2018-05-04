@@ -6,3 +6,6 @@ An security-related tweets event detection
 * twevent:
 * Fred: [*please refer*](https://github.com/qolina/FrED)
 
+
+All the news events included in the data [*Google Doc*](https://docs.google.com/spreadsheets/d/1izjdgyQZ3qTd6yCCEEUhLAFDk13iLMm2gDt2jl40nxE/edit#gid=467679091)
+
